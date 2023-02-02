@@ -11,8 +11,12 @@
             "id": "1969165c9de0da6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calcolo Numerico/Introduzione.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apprendimento automatico/Introduzione.md",
+                "file": "Calcolo Numerico/Introduzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apprendimento automatico/Introduzione.md",
+                "file": "Calcolo Numerico/Introduzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apprendimento automatico/Introduzione.md"
+                "file": "Calcolo Numerico/Introduzione.md"
               }
             }
           }
@@ -141,17 +145,17 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "5d623fe78ccaf8a3",
+  "active": "1969165c9de0da6d",
   "lastOpenFiles": [
-    "Automi e Linguaggi formali/Introduzione.md",
     "Basi di Dati/Introduzione.md",
+    "Automi e Linguaggi formali/Introduzione.md",
+    "Apprendimento automatico/Introduzione.md",
+    "README.md",
     "Calcolo Numerico/Introduzione.md",
     "Paradigmi di programmazione/Introduzione.md",
-    "Apprendimento automatico/Introduzione.md",
     "Calcolo Numerico/bgfrtbt.md",
     "Basi di Dati/fweffvwf.md",
     "cosa.png.md",
-    "cosaodndwd.md",
-    "cose da non fare.md"
+    "cosaodndwd.md"
   ]
 }
