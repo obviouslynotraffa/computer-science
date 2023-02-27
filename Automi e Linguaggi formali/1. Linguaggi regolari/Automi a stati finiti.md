@@ -55,11 +55,4 @@ Se il linguaggio è vuoto si denota con $\emptyset$ , ovvero non contiene nessun
 $$\emptyset\neq \{\epsilon\}$$
 
 
-di questo ne sono una branchia gli [[Automi a stati finiti deterministici]]
-Gli automi a stato finito deterministico è una quintupla$$A=(Q,\Sigma,\delta, q_o, F )$$
-- $Q$ è un insieme finito di stati 
-- $\Sigma$ è un alfabeto finito
-- $\delta$ è una funzione di transizione 
-- $q_0\in \;Q$ è lo stato iniziale
-- 
-- 
+di questo ne sono una branchia gli [[Automi a stati finiti deterministici]].
