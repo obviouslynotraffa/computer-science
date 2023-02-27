@@ -47,7 +47,7 @@ L'insieme di tutte le stringhe su $\Sigma$ si deonta con $\Sigma^*$ , ovvero
 $$\Sigma^*=\Sigma^0 \cup \Sigma^1 \cup \Sigma^2 \cup \Sigma^3\;\cup\;...$$
 
 
-***Linguaggio***: dato un alfabeto$\Sigma$, chiamiamo linguaggio ogni sottoinsieme
+***Linguaggio***: dato un alfabeto $\Sigma$, chiamiamo linguaggio ogni sottoinsieme
 $$L\subseteq \Sigma^*$$
 esempi di linguaggi possono essere l'insieme delle parole italiane, l'insieme dei programmi C corretti, ecc...
 
