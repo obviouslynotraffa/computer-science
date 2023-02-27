@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a2aa5e242d772f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automi e Linguaggi formali/Introduzione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calcolo Numerico/Introduzione.md",
+                "file": "Automi e Linguaggi formali/Introduzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calcolo Numerico/Introduzione.md",
+                "file": "Automi e Linguaggi formali/Introduzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calcolo Numerico/Introduzione.md"
+                "file": "Automi e Linguaggi formali/Introduzione.md"
               }
             }
           }
@@ -145,17 +158,17 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "1969165c9de0da6d",
+  "active": "6a2aa5e242d772f5",
   "lastOpenFiles": [
+    "Tecnologie Opensource/Intro.md",
+    "Calcolo Numerico/Introduzione.md",
     "Basi di Dati/Introduzione.md",
     "Automi e Linguaggi formali/Introduzione.md",
-    "Apprendimento automatico/Introduzione.md",
+    "Machine Learning/Introduzione.md",
     "README.md",
-    "Calcolo Numerico/Introduzione.md",
     "Paradigmi di programmazione/Introduzione.md",
     "Calcolo Numerico/bgfrtbt.md",
     "Basi di Dati/fweffvwf.md",
-    "cosa.png.md",
-    "cosaodndwd.md"
+    "cosa.png.md"
   ]
 }
