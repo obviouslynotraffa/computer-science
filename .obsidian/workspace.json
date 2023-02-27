@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "f7fb55dffe234a15",
+        "id": "12e6c77c3fde15e8",
         "type": "tabs",
         "children": [
           {
-            "id": "1969165c9de0da6d",
+            "id": "76b2eb681e6f0058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calcolo Numerico/Introduzione.md",
+                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a2aa5e242d772f5",
+            "id": "e6cfcc6e6e57fbfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automi e Linguaggi formali/Introduzione.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -61,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#nome",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automi e Linguaggi formali/Introduzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automi e Linguaggi formali/Introduzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Automi e Linguaggi formali/Introduzione.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,17 +150,17 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "6a2aa5e242d772f5",
+  "active": "5d623fe78ccaf8a3",
   "lastOpenFiles": [
-    "Tecnologie Opensource/Intro.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
+    "Automi e Linguaggi formali/Automi.md",
+    "gegg54.png.md",
+    "automi 1.png.md",
+    "automi.png.md",
+    "Automi e Linguaggi formali/Linguaggi Formali.md",
+    "automi.png",
     "Calcolo Numerico/Introduzione.md",
-    "Basi di Dati/Introduzione.md",
-    "Automi e Linguaggi formali/Introduzione.md",
-    "Machine Learning/Introduzione.md",
-    "README.md",
-    "Paradigmi di programmazione/Introduzione.md",
-    "Calcolo Numerico/bgfrtbt.md",
-    "Basi di Dati/fweffvwf.md",
-    "cosa.png.md"
+    "Paradigmi di programmazione/Introduzione.md"
   ]
 }
