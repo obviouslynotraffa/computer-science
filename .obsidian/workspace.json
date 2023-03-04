@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
+                "file": "Paradigmi di programmazione/Classi.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
+                "file": "Paradigmi di programmazione/Classi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
+                "file": "Paradigmi di programmazione/Classi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md"
+                "file": "Paradigmi di programmazione/Classi.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "edffbcb0d66d2c5f",
   "lastOpenFiles": [
-    "Paradigmi di programmazione/Classi.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
+    "Paradigmi di programmazione/Classi.md",
     "Visibilità.md",
     "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
     "Calcolo Numerico/5. Elementi di algebra lineare numerica",

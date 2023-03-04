@@ -304,7 +304,7 @@ class Foo extends App{
 
 
 App app = new App(); //Errore
-App foo = new Foo(); //Ok
+App foo = new Foo(); //OK
 
 ```
 
