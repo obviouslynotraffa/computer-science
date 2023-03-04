@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "center tables",
+    "center diagram"
+  ]
 }

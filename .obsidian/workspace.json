@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76b2eb681e6f0058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paradigmi di programmazione/Classi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "edffbcb0d66d2c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,27 +142,28 @@
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "edffbcb0d66d2c5f",
   "lastOpenFiles": [
-    "Paradigmi di programmazione/Classi.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
-    "Visibilità.md",
     "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
+    "automi 1.png.md",
+    "Paradigmi di programmazione/Classi.md",
+    "Visibilità.md",
     "Calcolo Numerico/5. Elementi di algebra lineare numerica",
     "Calcolo Numerico/4. Integrazione e derivazione numerica",
     "Calcolo Numerico/3. Interpolazione di dati e funzioni",
     "Calcolo Numerico/2. Equazioni non lineari",
     "Calcolo Numerico/1. Numeri ed errori",
-    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
-    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
     "Automi e Linguaggi formali/Automi.md",
     "Automi e Linguaggi formali/Linguaggi Formali.md",
     "Pasted image 20230227221133.png",
     "gegg54.png.md",
-    "automi 1.png.md",
     "automi.png.md",
     "automi.png"
   ]

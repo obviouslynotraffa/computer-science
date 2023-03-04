@@ -1,18 +1,32 @@
 
 
-Gli automi a stato finiti deterministico è una quintupla$$A=(Q,\Sigma,\delta, q_o, F )$$
-- $Q$ è un insieme finito di stati 
-- $\Sigma$ è un alfabeto finito
-- $\delta$ è una funzione di transizione 
-- $q_0\in \;Q$ è lo stato iniziale
-- $F \subseteq \;Q$ è un insieme di stati finali 
+>Un'automa a stati finiti non deterministici (*NFA*) è una quintupla 
+>$$A=(Q,\Sigma,\delta, q_o, F )$$ 
+>- $Q$ è un insieme finito di stati 
+>- $\Sigma$ è un alfabeto finito
+>- $\delta$ è una funzione di transizione 
+>- $q_0\in \;Q$ è lo stato iniziale
+>- $F \subseteq \;Q$ è un insieme di stati finali 
 
 
 Per comprendere meglio costruiamo un automa $A$ che accetta il linguaggio delle stringhe con 01 come sottostringa
 
-[[image]]
+```mermaid 
+flowchart LR; 
+start--> id1((Q0))-- 0 -->id2((Q1))-- 1--> id3(((Q2)))
+id1 -- 1 --> id1
+id2 -- 0 --> id2
+id3 -- 0,1 --> id3
+
+```
 
 Se il carattere è 1, si procede con il prossimo e si sta sempre in $q_0$, finchè non si trova uno 0, dove diventa $q_1$. Se il prossimo carattere è uno 0, sarà lo 0 dell'ipotetica sottostringa, quindi rimango in $q_1$, se invece trovo un 1, diventa un $q_2$, e rimane tale fino alla fine della stringa indipendentemente dal carattere.
+
+|          | 0             | 1           |
+| -------- | ------------- | ----------- |
+| -> $q_0$ | $q_1$ | $q_0$   |
+| $q_1$    | $q_1$   | $q_2$ |
+| $q_2$         |  $q_2$             |$q_2$             |
 
 In parole più formali:
 Data una parola $w=w_1\;w_2\;...\;w_n$ la computazione dell'automa $A$ con input $w$ è una sequenza di stati $r_0\;r_1\;...\;r_n$ che rispetta due condizioni:

@@ -11,14 +11,17 @@ Usiamo come esempio una porta automatica:
 - Un sensore di fronte alla porta rileva la presenza della persona
 - Un sensore sul retro della porta rileva quando la persona haattraversato la porta e se c’è qualcuno dietro la porta
 
-![[automi 1.png]]
-
 La porta quindi si può trovare in due stati: **Aperta** o **Chiusa**
 
 Ci sono quattro possibili input da sensori: **Fronte**, **Retro**, **Ambo**, **Nessuno**
 
+```mermaid 
+flowchart LR; 
+id1((Porta chiusa))-- Fronte -->id2((Porta Aperta))-- Nessuno--> id1((Porta chiusa))
+id2((Porta Aperta))-- Fronte, Ambo, Retro--> id2((Porta aperta))
+id1((Porta chiusa))-- Retro, Ambo, Nessuna--> id1((Porta chiusa))
+```
 
-![[gegg54.png]]
 
 Quindi se la porta è **chiusa**, rimane chiusa in tutti i casi tranne quandi passa una persona di fronte.
 Se, invece, è aperta rimane aperta finchè non ci sarà nessuna persona nelle prossimità.
@@ -55,4 +58,4 @@ Se il linguaggio è vuoto si denota con $\emptyset$ , ovvero non contiene nessun
 $$\emptyset\neq \{\epsilon\}$$
 
 
-di questo ne sono una branchia gli [[Automi a stati finiti deterministici]].
+di questo ne sono una branchia gli [[Automi a stati finiti deterministici]] e gli  [[Automi a stati finiti non deterministici]].
