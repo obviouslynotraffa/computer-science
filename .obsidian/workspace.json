@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
-                "mode": "preview",
+                "file": "Tecnologie Opensource/Issue Tracking System.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
+                "file": "Tecnologie Opensource/Issue Tracking System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
+                "file": "Tecnologie Opensource/Issue Tracking System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md"
+                "file": "Tecnologie Opensource/Issue Tracking System.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "edffbcb0d66d2c5f",
   "lastOpenFiles": [
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
+    "Tecnologie Opensource/Issue Tracking System.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
     "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
