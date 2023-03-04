@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edffbcb0d66d2c5f",
+            "id": "226c0bdbb1622486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologie Opensource/Issue Tracking System.md",
-                "mode": "source",
+                "file": "Machine Learning/Introduzione/Paradigmi di ML.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologie Opensource/Issue Tracking System.md",
+                "file": "Machine Learning/Introduzione/Paradigmi di ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologie Opensource/Issue Tracking System.md",
+                "file": "Machine Learning/Introduzione/Paradigmi di ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologie Opensource/Issue Tracking System.md"
+                "file": "Machine Learning/Introduzione/Paradigmi di ML.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edffbcb0d66d2c5f",
+  "active": "226c0bdbb1622486",
   "lastOpenFiles": [
-    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
+    "Machine Learning/Introduzione/Introduzione.md",
+    "Machine Learning/Introduzione/Paradigmi di ML.md",
+    "Machine Learning/Introduzione",
     "Tecnologie Opensource/Issue Tracking System.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
     "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
