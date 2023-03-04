@@ -320,13 +320,12 @@ String toString();
 ### Eccezioni
 La gestione degli errori in Java è implementata con un sistema di ***Tipi di Eccezione***. Le Eccezioni sono oggetti, ma vengono creati ed usati in casi particolari, e sono supportate da apposita sintassi. Tutte le eccezioni derivano dalla classe *Throwable*. Una prima suddivisione avviene fra le due sottoclassi di *Throwable*:
 
-
 - *Exception*: nonostante l'erorre, il programma dovrebbe essere in grado di proseguire
 - *Error*: gli errori per il quali, il programma non riesce a proseguire
 
 Una particolare sottoclasse di Exception è *RuntimeException*: essa rappresenta ogni errore che può avvenire durante la normale valutazione diespressioni. Viene lanciata direttamente dalla JVM, e quindi nonnecessita di essere dichiarata.
 
-Le eccezioni derivate da *RuntimeException* e *Error* sono dette ***unchecked exceptions*** e non necessitano dichiarazione nella definizione di un metodo. Tutte le altre, discendenti da *Exception* o *Throwable* direttamente, sono dette ***checked exception*** e devono essere dichiarate nella definizionedi un metodo.
+Le eccezioni derivate da *RuntimeException* e *Error* sono dette ***unchecked exceptions*** e non necessitano dichiarazione nella definizione di un metodo. Tutte le altre, discendenti da *Exception* o *Throwable* direttamente, sono dette ***checked exception*** e **devono** essere dichiarate nella definizionedi un metodo.
 
 
 La disciplina di OOP che ha ispirato questa parte di Java incoraggia la definizione di classi di eccezione legate al dominio del problema che il programma rappresenta, per esplicitare maggiormente il significato di tali condizioni di errore.
