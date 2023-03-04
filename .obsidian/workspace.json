@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
-                "mode": "source",
+                "file": "Paradigmi di programmazione/Classi.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
+                "file": "Paradigmi di programmazione/Classi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
+                "file": "Paradigmi di programmazione/Classi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md"
+                "file": "Paradigmi di programmazione/Classi.md"
               }
             }
           }
@@ -138,24 +138,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crea nuova lavagna": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
-      "canvas:Create new canvas": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false
     }
   },
   "active": "76b2eb681e6f0058",
   "lastOpenFiles": [
-    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
+    "Visibilità.md",
+    "Paradigmi di programmazione/Classi.md",
+    "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
+    "Calcolo Numerico/5. Elementi di algebra lineare numerica",
+    "Calcolo Numerico/4. Integrazione e derivazione numerica",
+    "Calcolo Numerico/3. Interpolazione di dati e funzioni",
+    "Calcolo Numerico/2. Equazioni non lineari",
+    "Calcolo Numerico/1. Numeri ed errori",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
     "Automi e Linguaggi formali/Automi.md",
     "Automi e Linguaggi formali/Linguaggi Formali.md",
     "Pasted image 20230227221133.png",
     "gegg54.png.md",
     "automi 1.png.md",
     "automi.png.md",
-    "automi.png",
-    "Calcolo Numerico/Introduzione.md"
+    "automi.png"
   ]
 }
