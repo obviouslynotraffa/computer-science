@@ -287,7 +287,7 @@ class Boo extends App{
 ```
 Una classe dichiarata *non-sealed* ritorna ad essere derivabile da tutti.
 
-Una classe dichiarata ***abstract*** deve essere usatacome superclasse; non è possibile istanziarla direttamente (sono come le classi astratte in C++).
+Una classe dichiarata ***abstract*** deve essere usatacome superclasse; non è possibile istanziarla direttamente (sono come le classi astratte in C++)
 
 ```java 
 package it.unipd.pdp2023;
