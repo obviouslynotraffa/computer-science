@@ -60,23 +60,26 @@ Dare due esempi di inductive bias
 > ***Linear regression***: prevede il valore di una variabile in base al valore di un'altra. La variabile che si predice si chiama "*dependent variable*", mentre l'altra *"independent variable"*.
 
 
-![](https://miro.medium.com/max/1400/1*md7XN9nXzyjcOXmL7LRzpw.png)
+![500](https://miro.medium.com/max/1400/1*md7XN9nXzyjcOXmL7LRzpw.png)
 
 In questo caso il bias induttivo è che questi dati possono essere apporssimati da una relazione lineare.
+
 
 
 > ***Nearest neighbors***: riconosce il pattern di classificazione degli oggetti basandosi sulle caratteristiche degli oggetti vicini a quello considerato.
 
 La regola che andrà ad implemetare questo algoritmo è la seguente: quando viene introdotto un nuovo pallino, andra a calcolare, nello spazio di rappresentazione dei dati (bi-dimensionale per il piano cartesiano) la distanza fra il nuovo punto e tutte le istanze che sono nelle vicinanze.
 
-![](https://www.jcchouinard.com/wp-content/uploads/2021/08/image-8.png)
+![500](https://www.jcchouinard.com/wp-content/uploads/2021/08/image-8.png)
 
 In questo caso il bias induttivo è che i due vicini appartengo allo stesso gruppo. 
 
-
+___
 
 - L'**errore di bias** è prodotto da assunzioni deboli nell'algoritmo di apprendimento. Un alto bias può fare in modo che l'algoritmo manchi le similitudini più rilevanti tra i punti (***underfiting***).
 
+![](https://miro.medium.com/v2/resize:fit:1400/1*9hPX9pAO3jqLrzt0IE3JzA.png)
+
 - L'**errore di varianza** è un errore prodotto da una troppa sensibilità alle piccole fluttuazioni nel training set. Un alta varianza può fare in modo che l'algoritmo modelli i dati sul rumore sentito (***overfitting***). 
 
-![](https://nvsyashwanth.github.io/machinelearningmaster/assets/images/bias_variance.jpg)
+![500](https://nvsyashwanth.github.io/machinelearningmaster/assets/images/bias_variance.jpg)
