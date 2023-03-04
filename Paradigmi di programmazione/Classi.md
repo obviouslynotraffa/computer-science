@@ -328,4 +328,5 @@ Una particolare sottoclasse di Exception è *RuntimeException*: essa rappresenta
 
 Le eccezioni derivate da *RuntimeException* e *Error* sono dette ***unchecked exceptions*** e non necessitano dichiarazione nella definizione di un metodo. Tutte le altre, discendenti da *Exception* o *Throwable* direttamente, sono dette ***checked exception*** e devono essere dichiarate nella definizionedi un metodo.
 
+
 La disciplina di OOP che ha ispirato questa parte di Java incoraggia la definizione di classi di eccezione legate al dominio del problema che il programma rappresenta, per esplicitare maggiormente il significato di tali condizioni di errore.
