@@ -47,3 +47,8 @@ A causa del nondeterminismo, ci può essere più di una computazione per ogni pa
 Infatti un *NFA* A accetta una parola se almeno un ramo dell'albero termina con una computazione che accetta la parola $w$. Invece rifiuta se tutte le computazioni la rifiutano. Formalmente, il linguaggio accettato da A è 
 $$L(A)=\{ w \in \Sigma^* | A\;\;accetta\;\;w \}$$
 
+
+>***Teorema***
+>Un linguaggio $L$ è accettato da un DFA se e solo se è accettato da un NFA.
+>$$NFA\rightarrow DFA$$
+

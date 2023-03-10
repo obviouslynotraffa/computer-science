@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Linear regression.md",
+                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58201a5fa1d87ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Linear regression.md",
+                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Linear regression.md",
+                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Linear regression.md"
+                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md"
               }
             }
           }
@@ -148,17 +160,20 @@
   },
   "active": "226c0bdbb1622486",
   "lastOpenFiles": [
-    "Machine Learning/Introduzione/Paradigmi di ML.md",
-    "Machine Learning/Linear regression.md",
-    "Paradigmi di programmazione/Classi.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
-    "Machine Learning/Regressione Lineare.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
+    "Automi e Linguaggi formali/0. Introduzione/Automi.md",
     "Machine Learning/Introduzione/Introduzione.md",
+    "Automi e Linguaggi formali/0. Introduzione",
+    "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
+    "Machine Learning/Linear regression.md",
+    "Machine Learning/Introduzione/Paradigmi di ML.md",
+    "Paradigmi di programmazione/Classi.md",
+    "Machine Learning/Regressione Lineare.md",
     "Machine Learning/Introduzione",
     "Tecnologie Opensource/Issue Tracking System.md",
-    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
-    "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
-    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
     "automi 1.png.md",
     "Visibilità.md",
     "Calcolo Numerico/5. Elementi di algebra lineare numerica",
@@ -166,8 +181,7 @@
     "Calcolo Numerico/3. Interpolazione di dati e funzioni",
     "Calcolo Numerico/2. Equazioni non lineari",
     "Calcolo Numerico/1. Numeri ed errori",
-    "Automi e Linguaggi formali/Automi.md",
-    "Automi e Linguaggi formali/Linguaggi Formali.md",
+    "Automi e Linguaggi formali/0. Introduzione/Linguaggi Formali.md",
     "Pasted image 20230227221133.png",
     "gegg54.png.md",
     "automi.png.md",
