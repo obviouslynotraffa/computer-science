@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Introduzione/Paradigmi di ML.md",
+                "file": "Machine Learning/Linear regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Introduzione/Paradigmi di ML.md",
+                "file": "Machine Learning/Linear regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Introduzione/Paradigmi di ML.md",
+                "file": "Machine Learning/Linear regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Introduzione/Paradigmi di ML.md"
+                "file": "Machine Learning/Linear regression.md"
               }
             }
           }
@@ -148,16 +148,18 @@
   },
   "active": "226c0bdbb1622486",
   "lastOpenFiles": [
-    "Machine Learning/Introduzione/Introduzione.md",
     "Machine Learning/Introduzione/Paradigmi di ML.md",
+    "Machine Learning/Linear regression.md",
+    "Paradigmi di programmazione/Classi.md",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
+    "Machine Learning/Regressione Lineare.md",
+    "Machine Learning/Introduzione/Introduzione.md",
     "Machine Learning/Introduzione",
     "Tecnologie Opensource/Issue Tracking System.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
-    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
     "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
     "automi 1.png.md",
-    "Paradigmi di programmazione/Classi.md",
     "Visibilità.md",
     "Calcolo Numerico/5. Elementi di algebra lineare numerica",
     "Calcolo Numerico/4. Integrazione e derivazione numerica",

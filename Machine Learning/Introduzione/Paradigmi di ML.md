@@ -55,9 +55,9 @@ Abbiamo due diversi tipi di bias:
 - **Restrizione**: limita lo spazio delle ipotesi
 - **Preferenza**: impone ordine nello spazio delle ipotesi
 
-Dare due esempi di inductive bias
+Daremo due esempi di inductive bias
 
-> ***Linear regression***: prevede il valore di una variabile in base al valore di un'altra. La variabile che si predice si chiama "*dependent variable*", mentre l'altra *"independent variable"*.
+> ***[[Linear regression]]***: prevede il valore di una variabile in base al valore di un'altra. La variabile che si predice si chiama "*dependent variable*", mentre l'altra *"independent variable"*.
 
 
 ![500](https://miro.medium.com/max/1400/1*md7XN9nXzyjcOXmL7LRzpw.png)
