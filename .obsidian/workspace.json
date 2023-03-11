@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "12e6c77c3fde15e8",
+        "id": "9e4214fca0cefd9d",
         "type": "tabs",
         "children": [
           {
-            "id": "226c0bdbb1622486",
+            "id": "06301db851b38c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
+                "file": "Paradigmi di programmazione/Java/Elementi di base.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58201a5fa1d87ab1",
+            "id": "913d93f3c48eb686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
+                "file": "Paradigmi di programmazione/Java/Istruzioni.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
+                "file": "Paradigmi di programmazione/Java/Istruzioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
+                "file": "Paradigmi di programmazione/Java/Istruzioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md"
+                "file": "Paradigmi di programmazione/Java/Istruzioni.md"
               }
             }
           }
@@ -158,11 +159,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "226c0bdbb1622486",
+  "active": "913d93f3c48eb686",
   "lastOpenFiles": [
+    "Paradigmi di programmazione/Java/Elementi di base.md",
+    "Paradigmi di programmazione/Java/Istruzioni.md",
+    "Paradigmi di programmazione/Java/Classi.md",
+    "Paradigmi di programmazione/Java",
+    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti deterministici.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti non deterministici.md",
-    "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti con epsilon-transizioni.md",
     "Automi e Linguaggi formali/1. Linguaggi regolari/Automi a stati finiti.md",
     "Automi e Linguaggi formali/0. Introduzione/Automi.md",
     "Machine Learning/Introduzione/Introduzione.md",
@@ -170,7 +175,6 @@
     "Calcolo Numerico/1. Numeri ed errori/Lezione 1.md",
     "Machine Learning/Linear regression.md",
     "Machine Learning/Introduzione/Paradigmi di ML.md",
-    "Paradigmi di programmazione/Classi.md",
     "Machine Learning/Regressione Lineare.md",
     "Machine Learning/Introduzione",
     "Tecnologie Opensource/Issue Tracking System.md",
