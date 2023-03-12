@@ -58,4 +58,4 @@ Se il linguaggio è vuoto si denota con $\emptyset$ , ovvero non contiene nessun
 $$\emptyset\neq \{\epsilon\}$$
 
 
-di questo ne sono una branchia gli [[Automi a stati finiti deterministici]],  [[Automi a stati finiti non deterministici]], [[Automi a stati finiti con epsilon-transizioni]]
+di questo ne sono una branchia gli [[Automi a stati finiti deterministici]],  [[Automi a stati finiti non deterministici]], [[Automi a stati finiti con epsilon-transizioni]] e
